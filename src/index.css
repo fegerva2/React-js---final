@@ -117,5 +117,37 @@ main {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+
+/* ===== CARD STYLES ===== */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transform: translateY(-5px);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-title {
+  font-weight: 600;
+  color: #333;
+}
+
+.card-text {
+  color: #666;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
 /*rojo: #DA251C   */
 /* gris #666 */ 
