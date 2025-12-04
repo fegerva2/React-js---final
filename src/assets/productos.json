@@ -1,0 +1,145 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "A2DD",
+      "descripcion": "Modulo de control digital para sistemas electronicos industriales",
+      "precio": 145323,
+      "avatar": "img/A2DD.gif",
+      "categoria": "Electronica",
+      "stock": 34,
+      "detalles": "Modulo controlador digital de uso industrial"
+    },
+    {
+      "id": 2,
+      "nombre": "A3DD",
+      "descripcion": "Controlador electronico compacto para tableros electricos",
+      "precio": 17265,
+      "avatar": "img/A3DD.png",
+      "categoria": "Electronica",
+      "stock": 12,
+      "detalles": "Modulo de control compacto para automatismos"
+    },
+    {
+      "id": 3,
+      "nombre": "A4DD",
+      "descripcion": "Modulo digital de control para procesos automatizados",
+      "precio": 183455,
+      "avatar": "img/A4DD.png",
+      "categoria": "Automatizacion",
+      "stock": 58,
+      "detalles": "Controlador digital para maquinas automaticas"
+    },
+    {
+      "id": 4,
+      "nombre": "ASY3D",
+      "descripcion": "Estructura mecanica para montaje de componentes industriales",
+      "precio": 109973,
+      "avatar": "img/ASY3D.jpg",
+      "categoria": "Herramientas",
+      "stock": 6,
+      "detalles": "Soporte mecanico para ensamblaje tecnico"
+    },
+    {
+      "id": 5,
+      "nombre": "ATDV-Y-",
+      "descripcion": "Valvula automatica para control de fluidos",
+      "precio": 120890,
+      "avatar": "img/ATDV-Y-.jpg",
+      "categoria": "Automatizacion",
+      "stock": 70,
+      "detalles": "Valvula electromecanica de control"
+    },
+    {
+      "id": 6,
+      "nombre": "DBF770",
+      "descripcion": "Ventilador industrial de alto flujo de aire",
+      "precio": 87762,
+      "avatar": "img/DBF770.jpg",
+      "categoria": "Electrodomesticos",
+      "stock": 41,
+      "detalles": "Ventilador extractor para uso industrial"
+    },
+    {
+      "id": 7,
+      "nombre": "DBF900",
+      "descripcion": "Ventilador de alta potencia para ventilacion tecnica",
+      "precio": 153492,
+      "avatar": "img/DBF900.jpg",
+      "categoria": "Electrodomesticos",
+      "stock": 19,
+      "detalles": "Ventilador potente para armarios tecnicos"
+    },
+    {
+      "id": 8,
+      "nombre": "DZ400",
+      "descripcion": "Fuente de alimentacion para equipos electronicos",
+      "precio": 19056,
+      "avatar": "img/DZ400.jpg",
+      "categoria": "Electronica",
+      "stock": 77,
+      "detalles": "Fuente de poder regulada"
+    },
+    {
+      "id": 9,
+      "nombre": "DZQ-400-doble",
+      "descripcion": "Fuente doble de alimentacion industrial",
+      "precio": 197443,
+      "avatar": "img/DZQ-400-doble.jpg",
+      "categoria": "Electronica",
+      "stock": 25,
+      "detalles": "Fuente industrial de doble salida"
+    },
+    {
+      "id": 10,
+      "nombre": "DZQ",
+      "descripcion": "Fuente de energia para equipos de control",
+      "precio": 152093,
+      "avatar": "img/DZQ.jpg",
+      "categoria": "Electronica",
+      "stock": 63,
+      "detalles": "Fuente de alimentacion de uso industrial"
+    },
+    {
+      "id": 11,
+      "nombre": "h3cr",
+      "descripcion": "Relay temporizador multifuncion para automatizacion",
+      "precio": 94337,
+      "avatar": "img/h3cr.jpg",
+      "categoria": "Automatizacion",
+      "stock": 48,
+      "detalles": "Temporizador electronico multifuncion"
+    },
+    {
+      "id": 12,
+      "nombre": "horno",
+      "descripcion": "Horno electrico para uso domestico o tecnico",
+      "precio": 37299,
+      "avatar": "img/horno.jpeg",
+      "categoria": "Electrodomesticos",
+      "stock": 9,
+      "detalles": "Horno electrico compacto"
+    },
+    {
+      "id": 13,
+      "nombre": "jm168-mk6",
+      "descripcion": "Controlador programable para procesos industriales",
+      "precio": 65432,
+      "avatar": "img/jm168-mk6.png",
+      "categoria": "Automatizacion",
+      "stock": 66,
+      "detalles": "Controlador programable de automatizacion"
+    },
+    {
+      "id": 14,
+      "nombre": "SM650",
+      "descripcion": "Pantalla industrial para monitoreo de sistemas",
+      "precio": 134812,
+      "avatar": "img/SM650-768x254.jpg",
+      "categoria": "Accesorios",
+      "stock": 21,
+      "detalles": "Display para supervision de equipos"
+    }
+  ]
+}
+
